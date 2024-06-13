@@ -11,10 +11,10 @@ body{
 }
 h2{
         position: absolute;
-        width:65%;
+        width:63%;
         padding: 10px;
         top: 42px;
-        left: 260px;
+        left: 275px;
         text-align: center;
         color:  white;
         background-color: rgba(0, 0, 0, 0.441);
@@ -30,7 +30,7 @@ img{
     width: 30%;
     height: 70vh;
     margin-top: 115px;
-    margin-left: 260px;
+    margin-left: 275px;
     padding: 20px;
 
 }
@@ -39,7 +39,7 @@ img{
     margin-top: -25px;
 }
 .img{
-    width: 35%;
+    width: 33%;
     height: 70vh;  
     margin-top: 115px;
 }
